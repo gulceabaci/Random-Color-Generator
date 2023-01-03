@@ -5,7 +5,7 @@
 - One is assigning a random hexadecimal color code.  
 - The other is copying the hexadecimal code displayed on the screen.  
 - Random incoming color code is also shown as background color.  
-- https://randomcologeneration.netlify.app/
+- https://randomcologeneration.netlify.app/  
 Thank you for giving a time..
 
 ![random-color-generator](https://user-images.githubusercontent.com/77458139/210356293-339a5059-f12b-4570-8429-4468a60052bd.png)
