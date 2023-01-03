@@ -1,3 +1,17 @@
+# Random Color Generator  
+
+- This project was made with React.  
+- Two buttons are made.  
+- One is assigning a random hexadecimal color code.  
+- The other is copying the hexadecimal code displayed on the screen.  
+- Random incoming color code is also shown as background color.  
+Thank you for giving a time..
+
+![random-color-generator](https://user-images.githubusercontent.com/77458139/210356293-339a5059-f12b-4570-8429-4468a60052bd.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
